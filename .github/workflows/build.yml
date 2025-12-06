@@ -32,6 +32,7 @@ jobs:
 
           
         sdk:
+          - 24.10
           - SNAPSHOT
 
     steps:
